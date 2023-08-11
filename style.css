@@ -23,13 +23,18 @@ Header{
     list-style: none;
 }
 .Navbar ul li{
-    background-color: aliceblue;
-    color: black;
-    border-radius: 12px;
+    
     padding: 5px;
     margin: 5px;
 }
-.Navbar ul li:hover{
+.Navbar ul li a{
+    text-decoration: none;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 12px;
+    padding: 4px;
+}
+.Navbar ul li a:hover{
     background-color: darkred;
     color: antiquewhite;
     cursor: pointer;
