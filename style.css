@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Navbar{
+    background-color: cadetblue;
+    border-radius: 25px;
+    margin: 0px;
+
+}
+.Navbar ul li{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 12px;
+    padding: 5px;
+    margin: 5px;
+}
